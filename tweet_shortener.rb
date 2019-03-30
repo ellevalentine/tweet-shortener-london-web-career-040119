@@ -1,6 +1,6 @@
-'use strict';
 
-var abbr_dictionary = {
+
+def dictionary = {
 	"hello" : "hi",
 	"to" : "2",
 	"two" : "2",
