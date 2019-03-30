@@ -1,5 +1,8 @@
 def dictionary 
   
-  words-to-be
+  words-to-be{:hello
+    
+    
+  }
   
 end
