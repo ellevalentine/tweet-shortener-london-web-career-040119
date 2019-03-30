@@ -12,5 +12,4 @@ def dictionary
       :at => @, 
       :and => "&"
     }
-  
 end
