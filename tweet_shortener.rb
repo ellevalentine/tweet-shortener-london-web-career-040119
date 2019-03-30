@@ -1,1 +1,5 @@
-# Write your code here.
+def dictionary 
+  
+  words-to-be
+  
+end
