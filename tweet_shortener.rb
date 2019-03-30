@@ -51,4 +51,4 @@ var tweetShortener = {
       return tweet;
     }
   }
-};
+}
